@@ -10,7 +10,7 @@ def load_library(file_path)
     emoticon_library["get_meaning"][emoticon[1]] = meaning
     emoticon_library["get_emoticon"][emoticon[0]] = emoticon[1]
   end
-  etimoticon_library
+  emoticon_library
 end
 
 
